@@ -1,3 +1,3 @@
 # jaishreeram
-this is our first git repository
+This is our first Git Repository
 Author - Abhay Gupta
